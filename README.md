@@ -8,7 +8,7 @@ cd nft_price_fetcher
 
 ```
 
-After Rust code is written 
+Then:  
 
 ` wasm-pack build --target web ` 
 ` cp -r /path/to/your/rust/project/pkg ./public/ `
