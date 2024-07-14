@@ -1,4 +1,4 @@
 /target
-./README.md
+README.md
 .gitignore
-./.env
+.env
